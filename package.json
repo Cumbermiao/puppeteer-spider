@@ -1,0 +1,22 @@
+{
+  "name": "puppeteer-spider",
+  "version": "1.0.0",
+  "description": "使用puppeteer进行网络爬虫",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cumbermiao/puppeteer-spider.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cumbermiao/puppeteer-spider/issues"
+  },
+  "homepage": "https://github.com/Cumbermiao/puppeteer-spider#readme",
+  "dependencies": {
+    "puppeteer": "^1.5.0"
+  }
+}
